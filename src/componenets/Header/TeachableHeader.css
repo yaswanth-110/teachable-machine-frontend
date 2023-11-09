@@ -1,0 +1,27 @@
+.header-item{
+    width: 250px;
+    padding: 1rem;
+    font-family: 'BoingSemiBold', Helvetica, Arial, sans-serif;
+    color: rgb(92,147,223);
+	background-color:rgb(255,255,255);
+    display:flex;
+    justify-content: space-evenly;
+    position:fixed;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    align-items: center;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 500;
+    
+
+}
+
+.header-item img{
+    width: 30px;
+    height: 30px;
+}
+
+.header-item:hover{
+    border: 2px solid rgb(92,147,223) ;
+}

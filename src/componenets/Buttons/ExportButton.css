@@ -1,0 +1,48 @@
+.export-model {
+	display: flex;
+	background-color: white;
+	border-radius: 10px;
+	flex-direction: column;
+	box-shadow: 5px 5px 5px lightgray;
+	width: 15rem;
+	margin: 1rem;
+	padding: 1rem;
+}
+.export-model-upper-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: rgb(255, 255, 255);
+}
+
+.exp-prev-container {
+	font-weight: 500;
+	font-size: 18px;
+	font-family: 'Google Sans', 'Helvetica', 'Arial', 'sans-serif';
+}
+.export-button {
+	/* width: 150px; */
+	height: fit-content;
+	padding: 0.5rem;
+	font-size: 12px;
+	font-weight: 500;
+	font-family: 'Google Sans', 'Helvetica', 'Arial', 'sans-serif';
+	background-color: rgb(241, 243, 244);
+	letter-spacing: 0.3px;
+	border-radius: 8px;
+	border: transparent;
+	display: flex;
+	column-gap: 0.5rem;
+	/*align-items: center;*/
+}
+
+.export-button img {
+	width: 12px;
+	height: 12px;
+}
+
+.export-button:hover {
+	background-color:rgb(232,240,254);
+	cursor: pointer;
+	border: 3px solid rgb(232,240,254);
+}

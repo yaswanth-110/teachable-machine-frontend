@@ -1,0 +1,13 @@
+.upl-web-container{
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+}
+
+
+.upl-web{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+}

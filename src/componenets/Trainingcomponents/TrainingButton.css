@@ -1,0 +1,34 @@
+.Training-div-container{
+	background-color: white;
+    width: 170px;
+    border-radius: 10px;
+    padding: 0.5rem;
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+	box-shadow: 5px 5px 5px lightgray;
+    position: sticky;
+}
+
+.Training-text{
+    font-family: 'Google Sans', 'Helvetica', 'Arial', 'sans-serif';
+    font-weight: 550;
+    font-size: 15px; 
+    letter-spacing: 0.3px;
+}
+.Train-Model-button{
+    font-family: 'Google Sans', 'Helvetica', 'Arial', 'sans-serif';
+    font-size: 12px;
+	background-color: rgb(241, 243, 244);
+    width: 150px;
+    padding: 0.5rem;
+    border-radius: 8px;
+    letter-spacing: 0.3px;
+    display: flex;
+    justify-content: center;
+}
+.Train-Model-button:hover{
+	background-color:rgb(232,240,254);
+    cursor: pointer;
+}

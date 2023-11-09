@@ -1,0 +1,15 @@
+.content {
+    padding:1px 10px 1px 10px;
+    border-top: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.content p {
+    font-family:'Google Sans', 'Helvetica', 'Arial', 'sans-serif';
+    letter-spacing: 0.7%;
+    font-size: small;
+    font-weight: lighter;
+    color:gray;
+
+    
+}

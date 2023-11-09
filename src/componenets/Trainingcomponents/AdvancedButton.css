@@ -1,0 +1,21 @@
+.hyppara-button{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Google Sans', 'Helvetica', 'Arial', 'sans-serif';
+    font-size: small;
+    font-weight: 100;
+    color: gray;
+    letter-spacing: 0.7%;
+    margin: 0;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+.hyppara-button img{
+    width: 17px;
+    height: 20px;
+}
+.hyppara-button:hover{
+	background-color:rgb(232,240,254);
+    cursor: pointer;
+   
+}

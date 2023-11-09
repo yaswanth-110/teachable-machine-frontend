@@ -1,0 +1,16 @@
+.class-button{
+    margin-left: 15px;
+    width:420px;
+    border: 1px solid;
+    padding: 2rem;
+    font-family: 'BoingSemiBold', Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px black;
+    
+}
+.class-button:hover{
+	background-color:rgb(232,240,254);
+    cursor: pointer;
+}

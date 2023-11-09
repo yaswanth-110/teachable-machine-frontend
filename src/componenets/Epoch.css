@@ -1,0 +1,27 @@
+.epoch{
+    display: flex;
+    background-color:white;
+    flex-direction: column;
+    border-radius: 5px;
+    justify-content: center;
+    row-gap: 0.5rem;
+    border:1px gray 
+    
+}
+.hyp-class{
+    padding: 0.5rem;
+    display: flex;
+    border-bottom: 1px solid;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(232,240,254);
+    border-radius: 10px;
+    font-family: 'Google Sans', Helvetica, Arial, sans-serif;
+    box-shadow: 3px 3px 3px black;
+    font-size: small;
+}
+input[type='number']{
+    width:40px;
+    border-radius: 5px;
+    
+}

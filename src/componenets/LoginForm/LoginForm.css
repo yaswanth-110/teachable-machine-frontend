@@ -1,0 +1,11 @@
+.login_class{
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.form_class{
+    padding:20px
+}
